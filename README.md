@@ -6,9 +6,9 @@ This is the [JHipster](https://www.jhipster.tech/) registry service, based on [S
 
 The JHipster Registry has three main purposes:
 
-It is a an Eureka server, that serves as a discovery server for applications. This is how JHipster handles routing, load balancing and scalability for all applications.
-It is a Spring Cloud Config server, that provide runtime configuration to all applications.
-It is an administration server, with dashboards to monitor and manage applications.
+- It is a an Eureka server, that serves as a discovery server for applications. This is how JHipster handles routing, load balancing and scalability for all applications.
+- It is a Spring Cloud Config server, that provide runtime configuration to all applications.
+- It is an administration server, with dashboards to monitor and manage applications.
 
 Full documentation is available on the [JHipster documentation for microservices](https://www.jhipster.tech/microservices-architecture).
 
