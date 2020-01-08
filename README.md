@@ -1,20 +1,3 @@
-# JHipster Build and Run
-
-To build the cloned repository;
-
-- To build in cmd `mvn clean install`
-
-To run the cloned repository;
-
-- To run in cmd `mvn -Pdev`
-
-By default Jhipster will run on http://localhost:8761/
-
-- user: admin
-- password: admin
-
-===============================================================================
-
 # JHipster Registry
 
 [![Azure DevOps Build Status][azure-devops-image]][azure-devops-url-main] [![Build Status][travis-image]][travis-url] [![Docker Pulls](https://img.shields.io/docker/pulls/jhipster/jhipster-registry.svg)](https://hub.docker.com/r/jhipster/jhipster-registry/)
