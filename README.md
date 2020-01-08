@@ -1,4 +1,4 @@
-# To Build and Run
+# JHipster Build and Run
 
 To build the cloned repository;
 
