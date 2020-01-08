@@ -27,8 +27,6 @@ By default Jhipster will run on http://localhost:8761/
 - user: admin
 - password: admin
 
-===============================================================================
-
 ## Deploy to Heroku
 
 Click this button to deploy your own instance of the registry:
