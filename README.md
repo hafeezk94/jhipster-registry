@@ -23,6 +23,23 @@ This is the [JHipster](https://www.jhipster.tech/) registry service, based on [S
 
 Full documentation is available on the [JHipster documentation for microservices](https://www.jhipster.tech/microservices-architecture).
 
+## Build and Run
+
+To build the cloned repository;
+
+- To build in cmd `mvn clean install`
+
+To run the cloned repository;
+
+- To run in cmd `mvn -Pdev`
+
+By default Jhipster will run on http://localhost:8761/
+
+- user: admin
+- password: admin
+
+===============================================================================
+
 ## Deploy to Heroku
 
 Click this button to deploy your own instance of the registry:
