@@ -10,8 +10,8 @@ To run the cloned repository;
 
 http://localhost:8761/
 
-user: admin
-password: admin
+- user: admin
+- password: admin
 
 ===============================================================================
 
