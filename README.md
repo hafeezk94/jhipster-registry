@@ -8,7 +8,7 @@ To run the cloned repository;
 
 - To run in cmd `mvn -Pdev`
 
-http://localhost:8761/
+By default Jhipster will run on http://localhost:8761/
 
 - user: admin
 - password: admin
